@@ -33,7 +33,16 @@ query3
 ```
 
 # Scraper script
-I did not add args to this script, so you will have to change the paths for the queries .txt file and the output directory in the script if desired. These can all be found in the configuration section of the script. The scrript also contains a query suffix to further filter and refine results for all searches.
+I did not add args to this script, so you will have to change the paths for the queries .txt file and the output directory in the script if desired. These can all be found in the configuration section of the script. The script also contains a query suffix to further filter and refine results for all searches.
 ```
 python scraper.py
+```
+
+Configuration section:
+```
+# Configuration
+images_per_class = 1000  # max 1000 images per query (bing images is 1000 max)
+root_dir = 'images'
+input_txt_path = 'recycle_queries.txt' # query .txt file
+query_suffix = " white background -clipart -illustration -drawing -cartoon -vector -icon -emoji" # extra keywords/filters for search engine
 ```
