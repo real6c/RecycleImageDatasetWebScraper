@@ -18,7 +18,7 @@ The recycle_queries.txt file aims to create the most diverse recycle dataset pos
 - plastic
 - paper
 - glass
--metal
+- metal
 ```
 There are over 200 total queries as well.
 
