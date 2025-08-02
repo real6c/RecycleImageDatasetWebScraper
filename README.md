@@ -46,3 +46,9 @@ root_dir = 'images'
 input_txt_path = 'recycle_queries.txt' # query .txt file
 query_suffix = " white background -clipart -illustration -drawing -cartoon -vector -icon -emoji" # extra keywords/filters for search engine
 ```
+
+# Post processing
+Run this remove_duplicates.py script at the end which compares MD5 image hashes to find exact matches and keep only 1, takes param for the dataset directory
+```
+python remove_duplicates.py --dataset_dir images/
+```
