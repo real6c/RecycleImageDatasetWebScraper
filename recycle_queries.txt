@@ -1,0 +1,367 @@
+##plastic
+
+#plastic bottle
+plastic bottle
+clear plastic bottle
+empty plastic bottle
+plastic water bottle
+pet plastic bottle
+disposable plastic bottle
+plastic soda bottle
+crushed plastic bottle
+plastic sports drink bottle
+plastic energy drink bottle
+plastic tea bottle
+ketchup plastic bottle
+mustard plastic bottle
+
+#plastic container
+plastic container
+clear plastic food container
+microwavable plastic container
+plastic takeout container
+plastic deli container
+plastic clamshell container
+HDPE plastic container
+crushed plastic container
+margarine plastic container
+yogurt plastic cup
+butter tub plastic container
+to-go soup plastic container
+cosmetic plastic jar
+plastic food tray
+plastic bowl
+plastic food plate
+
+#plastic cup
+plastic cup
+disposable plastic cup
+plastic party cup
+plastic drinking cup
+used plastic cup
+clear plastic cup
+stacked plastic cups
+crushed plastic cup
+
+#plastic utensils
+plastic utensils
+plastic cutlery set
+plastic fork
+plastic spoon
+plastic knife
+clear plastic utensils
+clear plastic fork
+clear plastic spoon
+clear plastic knife
+white plastic fork
+white plastic spoon
+white plastic knife
+white plastic utensils
+plastic spork
+
+#plastic bag
+plastic bag
+crumpled plastic bag
+empty grocery plastic bag
+white plastic bag
+clear plastic bag
+plastic shopping bag
+HDPE plastic bag
+used plastic bag
+plastic produce bag
+plastic retail bag
+plastic freezer bag
+plastic ziplock bag
+
+#plastic packaging
+plastic packaging
+plastic shrink wrap
+LDPE plastic wrap
+plastic packaging material
+plastic bubble wrap
+plastic film packaging
+plastic blister packaging
+plastic clamshell packaging
+plastic wrapper
+candy plastic wrapper
+snack plastic wrapper
+
+#plastic jug
+plastic jug
+empty plastic milk jug
+plastic gallon jug
+HDPE plastic jug
+plastic water jug
+plastic detergent bottle
+plastic cleaning bottle
+used plastic jug
+crumpled plastic jug
+plastic bleach bottle
+
+#plastic soap bottle
+plastic soap bottle
+plastic shampoo bottle
+plastic conditioner bottle
+plastic lotion bottle
+empty soap dispenser bottle
+plastic hand sanitizer bottle
+clear plastic pump bottle
+plastic body wash bottle
+plastic face wash bottle
+
+#plastic straw
+plastic straw
+bent plastic straw
+clear plastic straw
+wrapped plastic straw
+used plastic straw
+
+#plastic lid
+plastic cup lid
+plastic takeout lid
+plastic coffee cup lid
+plastic yogurt lid
+plastic bottle cap
+plastic jar lid
+
+#plastic tube
+plastic tube
+plastic toothpaste tube
+plastic ointment tube
+plastic cosmetic tube
+plastic sunscreen tube
+plastic lotion tube
+
+#plastic other
+plastic razor
+plastic toothbrush
+plastic toothbrush head
+plastic comb
+plastic deodorant stick
+plastic hanger
+broken plastic item
+
+##paper
+
+#paper bag
+paper bag  
+grocery paper bag  
+lunch paper bag  
+paper shopping bag  
+paper gift bag  
+paper tote bag  
+
+#cardboard box
+cardboard box  
+cereal cardboard box  
+cracker cardboard box  
+shoe cardboard box  
+gift cardboard box  
+electronics cardboard box  
+appliance cardboard box  
+empty pizza box
+empty deliver-to-go pizza box
+
+#paper cup
+paper cup  
+disposable paper cup  
+coffee paper cup  
+paper hot-drink cup  
+paper cold-drink cup  
+
+#paper plate
+paper plate  
+disposable paper plate  
+paper dinner plate  
+paper snack plate  
+
+#paper bowl
+paper bowl  
+disposable paper bowl  
+
+#paper napkin
+paper napkin  
+paper tissue  
+facial tissue  
+tissue paper  
+paper towel  
+toilet paper roll  
+paper towel roll  
+
+#paper straw
+paper straw  
+wrapped paper straw  
+straw wrapper
+
+#paper carton
+paper carton  
+milk paper carton  
+juice paper carton  
+Tetra Pak carton  
+juice box  
+empty egg carton
+
+#paper wrapper
+paper wrapper  
+candy paper wrapper  
+snack paper wrapper  
+
+#paper mail
+paper envelope  
+paper letter envelope  
+paper postal mail  
+paper mail flyer  
+paper postcard  
+
+#paper magazine
+paper magazine  
+paper newspaper  
+paper newspaper insert  
+paper brochure  
+paper flyer  
+paper pamphlet  
+paper leaflet
+paper book  
+
+#paper sheet
+office paper  
+notebook paper  
+index card  
+paper flash card  
+sticky note  
+Post-It note  
+crumpled paper
+crumpled sticky note
+
+#paper receipt
+paper receipt 
+paper ticket stub  
+paper event ticket  
+crumpled receipt
+
+#other paper
+paperboard tube  
+toilet-paper tube  
+paper-towel tube  
+wrapping-paper tube  
+packing paper  
+paper label  
+sticker paper  
+price tag paper  
+cardstock paper
+poster board
+foam-core board  
+greeting-card paper envelope  
+invitation paper envelope  
+corrugated cardboard pad
+corrugated paper pad  
+paper pulp tray  
+paper coaster  
+paper doily  
+paper file folder  
+paper manila folder  
+
+##glass
+
+#glass bottle
+glass bottle  
+clear glass bottle  
+empty beer glass bottle
+empty liquor glass bottle
+soda glass bottle  
+water glass bottle  
+green glass bottle  
+brown glass bottle  
+empty glass bottle  
+
+#glass jar
+glass jar  
+cosmetic glass jar  
+perfume glass bottle  
+empty nail polish glass bottle
+
+#glass container
+glass container  
+glass medicine bottle  
+glass prescription bottle  
+glass pump dispenser bottle  
+
+#glass drinking
+drinking glass  
+tumbler glass  
+empty wine glass
+empty champagne flute glass
+empty cocktail glass
+empty shot glass
+
+#glass dishes
+glass plate  
+glass bowl  
+glass dish  
+glass bakeware  
+glass baking dish  
+glass casserole dish  
+glass measuring cup  
+
+#glass decor
+glass vase  
+glass decorative bowl  
+
+#glass lab
+laboratory glassware  
+empty glass beaker
+empty glass test tube
+empty glass flask
+empty glass pipette
+
+#glass other
+glass shard
+broken glass fragment  
+shattered glass piece  
+
+##metal
+
+#metal can
+metal can
+aluminum can  
+soda metal can  
+crushed aluminum can  
+empty aluminum can  
+recycled aluminum can  
+tin can  
+food can  
+crushed tin can  
+steel can  
+crushed steel can  
+aerosol can  
+spray paint can  
+deodorant aerosol can  
+cooking spray can  
+air freshener can  
+
+#metal foil
+aluminum foil sheet  
+crumpled aluminum foil  
+foil container  
+
+#metal cap
+metal bottle cap  
+twist-off metal cap  
+
+#metal other
+metal disposable roasting pan
+disposable foil baking tray  
+disposable metal pie tin 
+metal nail  
+metal screw  
+metal bolt  
+metal washer  
+metal spring  
+metal bucket  
+metal pail  
+
+#metal small items
+metal clip  
+metal paperclip  
+metal safety pin  
+
