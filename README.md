@@ -1,6 +1,9 @@
 # RecycleImageDatasetWebScraper
 Scrapes thousands of images of recyclable objects from web efficiently and quickly
 
+**Note**
+This tool is part of a larger project for creating a web-scraped image dataset for training YOLO models. The full project is available [on HuggingFace](https://huggingface.co/datasets/lreal/BingRecycle40k).
+
 # How to use
 You can either pip install icrawler or install the requirements.txt. As of now this repo uses Python 3.13.5, the latest Python version should work just fine though. It is reccomended you use a venv or conda.
 
